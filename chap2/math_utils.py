@@ -3,7 +3,7 @@
 calculator 모듈을 사용하여 고급 수학 연산을 수행합니다.
 """
 
-from calculator import add, multiply, power
+from calculator import add, multiply, power, divide
 import math
 
 def factorial(n):
